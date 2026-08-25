@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Question 6
+CLK	In	State	Z
+ 1	1	  0		0
+ 0	1	  0		0
+ 1	0	  1		1
+ 0	0	  1		1
+ 1	0	  1		1
+ 0	1	  1		1
+ 1	1	  2		1
+ 0	0	  2		1
+ 1	0	  2		1
+ 0	1	  2		1
+ 1	1	  0		0
+ 0	1	  0		0
+INFO: xsimkernel Simulation Memory Usage: 279060 KB (Peak: 336332 KB), Simulation CPU Usage: 1620 ms
