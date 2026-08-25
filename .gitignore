@@ -59,7 +59,7 @@ xvlog.*
 *.runs
 *.hw
 *.backup.*
-*.debug
+# *.debug
 
 ## checkpoint files
 *.dcp
