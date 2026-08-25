@@ -1,4 +1,4 @@
-# UTSA-EE-5223 Adv. Digital System Design Assignments
+# UTSA EE-5223 Adv. Digital System Design Assignments
 
 ## Student Name
 **Jordan Cavlovic**
